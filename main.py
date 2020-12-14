@@ -1,4 +1,4 @@
-from pytomaton import AFD, State
+from pythomaton import AFD, State
 
 def main():
     print('Welcome to Pythomaton')
